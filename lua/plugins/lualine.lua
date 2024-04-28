@@ -5,9 +5,9 @@ return {
     require('lualine').setup {
       options = {
         --theme='wombat'
-        theme='solarized_dark'
+        --theme='solarized_dark'
         --theme='powerline_dark'
-        --theme='Tomorrow'
+        theme='Tomorrow'
         --theme='dracula'
       }
     }
